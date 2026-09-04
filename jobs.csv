@@ -1,0 +1,6 @@
+title,company,location,description,skills
+Data Analyst,InsightWorks,Remote,"Analyze business data, create dashboards and reports, clean datasets and communicate insights.","python,sql,pandas,numpy,excel,power bi,tableau,statistics,data analysis"
+Junior ML Engineer,NeuralEdge,Bengaluru,"Build and evaluate machine learning models, prepare datasets and collaborate with engineering teams.","python,scikit-learn,pandas,numpy,machine learning,xgboost,git,sql"
+AI/ML Intern,VisionLabs,Hyderabad,"Assist with ML experiments, NLP pipelines and model evaluation.","python,machine learning,nlp,scikit-learn,pandas,numpy,git"
+Python Developer,CloudForge,Pune,"Develop backend services and REST APIs using Python and Flask.","python,flask,fastapi,rest api,sql,git,docker,linux"
+Data Science Intern,DataNova,Remote,"Explore datasets, build predictive models and present analytical findings.","python,sql,pandas,numpy,scikit-learn,statistics,matplotlib,data analysis"
